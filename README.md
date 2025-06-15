@@ -1,1 +1,2 @@
 # Controller-for-TC514-Precision-Analog-Front-End
+VHDL-based sequential controller for the Microchip TC514 Precision Analog Front End, simulating a dual-slope integrating analog-to-digital converter (ADC). Designed in a fully structural architecture using four modular components: a frequency divider, a 16-bit binary counter, an output register, and a finite state machine. Simulation and hardware implementation performed on a Lattice LCMXO3L-6900C FPGA.
